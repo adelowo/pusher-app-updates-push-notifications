@@ -1,7 +1,7 @@
 # pusher-app-updates-push-notifications
 
 
-Informing users of app updates with Pusher Beams. 
+Informing users of app updates with Pusher Beams. The tutorial can be found at https://pusher.com/tutorials/beams-notify-users-ios
 
 ## Pre-requisites
 
